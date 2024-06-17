@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+}
+
+header {
+    background-color: #333;
+    padding: 15px;
+    text-align: center;
+}
+
+header img {
+    width: 300px; /* Ajuste o tamanho da logo conforme necessário */
+}
+
+video {
+    width: 100%;
+    height: auto;
+    display: block;
+}
